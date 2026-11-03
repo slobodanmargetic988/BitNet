@@ -1,4 +1,6 @@
 # bitnet.cpp
+
+[![Support my work on this fork](https://img.shields.io/badge/Support%20my%20work%20on%20this%20fork-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/slobodanmargetic988)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![version](https://img.shields.io/badge/version-1.0-blue)
 
